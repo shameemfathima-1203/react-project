@@ -468,7 +468,7 @@ export default function App() {
         </div>
         </div>
       </div>
-      <div id="footer"><h1>DONE BY NITISH KUMAR K</h1></div>
+      <div id="footer"><h1>DONE BY SHAMEEM FATHIMA</h1></div>
       </div>
     )
 }
